@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+.searchbar {
+  display: flex;
+  background: #000;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  color: #ccc;
+  font-size: 13px;
+}
+i {
+  color: #ccc;
+}
+
+.search > i {
+  margin: 0px 5px;
+  color: #7a4120;
+}
+
+#search-bar {
+  background: transparent;
+  color: #ccc;
+  border: none;
+  outline: none;
+}
+
+.socials > i {
+  margin: 0px 5px;
+}
