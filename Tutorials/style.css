@@ -31,3 +31,7 @@ i {
 .socials > i {
   margin: 0px 5px;
 }
+
+.btn {
+  color: #ccc;
+}
