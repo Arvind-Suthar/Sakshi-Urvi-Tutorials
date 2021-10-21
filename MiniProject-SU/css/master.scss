@@ -22,3 +22,30 @@ body {
     margin: 3rem;
   }
 }
+.section-header {
+  text-align: center;
+  padding: 1.5rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.btn-block {
+  width: 100%;
+}
+.feature-list {
+  list-style-type: none;
+
+  .logo-container {
+    display: grid;
+    place-items: center;
+    font-size: 3rem;
+  }
+}
+.feature-header {
+  font-weight: bold;
+}
+p {
+  color: #555;
+}
+.trust-list {
+  list-style-type: none;
+}
